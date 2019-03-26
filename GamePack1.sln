@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GamePack1", "GamePack1.vcproj", "{016D4C71-60ED-4945-AE68-3C9AE15BF8B8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DCCommon", "..\dccommon\dccommon.vcproj", "{09B8AA0A-F1D4-44E7-A467-0B630051F0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016D4C71-60ED-4945-AE68-3C9AE15BF8B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{016D4C71-60ED-4945-AE68-3C9AE15BF8B8}.Debug|Win32.Build.0 = Debug|Win32
+		{016D4C71-60ED-4945-AE68-3C9AE15BF8B8}.Release|Win32.ActiveCfg = Release|Win32
+		{016D4C71-60ED-4945-AE68-3C9AE15BF8B8}.Release|Win32.Build.0 = Release|Win32
+		{09B8AA0A-F1D4-44E7-A467-0B630051F0AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09B8AA0A-F1D4-44E7-A467-0B630051F0AF}.Debug|Win32.Build.0 = Debug|Win32
+		{09B8AA0A-F1D4-44E7-A467-0B630051F0AF}.Release|Win32.ActiveCfg = Release|Win32
+		{09B8AA0A-F1D4-44E7-A467-0B630051F0AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
